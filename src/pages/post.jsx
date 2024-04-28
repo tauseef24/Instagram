@@ -158,7 +158,7 @@ function Post() {
               >
                 <img
                   className="w-[95%] h-[55%] mt-3 rounded-md object-fit"
-                  src={image}
+                  src={postObj.imageUrl}
                   alt="Post image"
                 />
 
